@@ -10,3 +10,5 @@ I created a new branch in GitHub desktop called feature/new-content. I commited 
 
 AND I deleted the branch feature/new-content since it merged successfully to the main branch.
 
+This is branchA
+
